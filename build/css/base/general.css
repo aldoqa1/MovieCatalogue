@@ -1,0 +1,16 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+  padding: 0rem;
+  margin: 0rem;
+  font-family: "Open Sans", sans-serif;
+  background-color: rgb(58, 49, 99);
+}
